@@ -12,7 +12,7 @@ class App extends Component<AppProps, AppState> {
   constructor(props) {
     super(props);
     this.state = {
-      name: 'React'
+      name: 'ARTNATIONS Visitor'
     };
   }
 
@@ -21,7 +21,11 @@ class App extends Component<AppProps, AppState> {
       <div>
         <Hello name={this.state.name} />
         <p>
-          Start editing to see some magic happen :)
+        Welcome to the international Museum of art and culture of the future.  
+        
+        This museum was founded by KOSASIH from Indonesia with the aim of helping preserve art and culture from around the world.
+      
+        Please browse and see our collection.
         </p>
       </div>
     );
