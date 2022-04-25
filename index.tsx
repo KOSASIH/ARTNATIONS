@@ -25,7 +25,7 @@ class App extends Component<AppProps, AppState> {
         
         This museum was founded by KOSASIH from Indonesia with the aim of helping preserve art and culture from around the world.
       
-        Please browse and see our collection.
+        Please browse and see our collections.
         </p>
       </div>
     );
