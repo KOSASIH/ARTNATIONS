@@ -21,23 +21,23 @@ In its creation and development, ARTNATIONS is equipped with artificial intellig
 
 1. Scalai :
    OpenScale
-2. Mellow : 
+2. Mellow :
    Assistant
-3. Discora : 
+3. Discora :
    Discovery
-4. Laggy : 
+4. Laggy :
    Language Translator
-5. Natula : 
+5. Natula :
    Natural Language Understanding
-6. Monica : 
+6. Monica :
    Machine Learning
-7. Speeco : 
+7. Speeco :
    Speech to Text
-8. Texxy : 
+8. Texxy :
    Text to Speech
-9. Tony : 
+9. Tony :
    Tone Analyzer
-10. Dindas : 
+10. Dindas :
     Cognos Embed
-    
+
     So that ARTNATIONS will provide the best service and become a technology that is able to create a better life, today and in the future.
