@@ -6,3 +6,11 @@
 # ARTNATION
 
 International digital art and culture museum powered by Artificial Intelligence.
+
+# ARTNATIONS Voice
+
+Futuristic, Informative, Educative
+
+# ARTNATIONS Mission
+
+To become the center of the largest and most comprehensive collection of art and cultural history of human civilization in the world which will be a source of knowledge and also to provide information to the general public about the history of human life.
