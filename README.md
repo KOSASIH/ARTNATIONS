@@ -3,7 +3,7 @@
 [![DeepSource](https://deepsource.io/gh/KOSASIH/ARTNATIONS.svg/?label=active+issues&show_trend=true&token=D4ud501cPaDMOAuumZmJIWRS)](https://deepsource.io/gh/KOSASIH/ARTNATIONS/?ref=repository-badge)
 [![CircleCI](https://circleci.com/gh/KOSASIH/ARTNATIONS/tree/main.svg?style=svg)](https://circleci.com/gh/KOSASIH/ARTNATIONS/tree/main)
 
-# ARTNATION
+# ARTNATIONS
 
 International digital art and culture museum powered by Artificial Intelligence.
 
