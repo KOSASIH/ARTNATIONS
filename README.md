@@ -39,3 +39,5 @@ In its creation and development, ARTNATIONS is equipped with artificial intellig
    Tone Analyzer
 10. Dindas : 
     Cognos Embed
+    
+    So that ARTNATIONS will provide the best service and become a technology that is able to create a better life, today and in the future.
