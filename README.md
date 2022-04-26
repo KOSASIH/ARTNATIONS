@@ -17,34 +17,24 @@ To be the center of the largest and most comprehensive collection of the history
 
 # Value Proposition
 
-1. Watson OpenScale
+In its creation and development, ARTNATIONS is equipped with artificial intelligence technology which has the following features:
 
-2. Cozeon
-Watson Assistant
-
-3. Mellow
-Watson Assistant
-
-4. Discora
-Watson Discovery
-
-5. Laggy
-Language Translator
-
-6. Natula
-Natural Language Understanding
-
-7. Monica
-Machine Learning
-
-
-
-8. Speeco
-Speech to Text
-
-
-9. Texxy
-Text to Speech
-
-10. Tony
-Tone Analyzer
+1. OpenScale
+2. Mellow
+   Assistant
+3. Discora
+   Discovery
+4. Laggy
+   Language Translator
+5. Natula
+   Natural Language Understanding
+6. Monica
+   Machine Learning
+7. Speeco
+   Speech to Text
+8. Texxy
+   Text to Speech
+9. Tony
+   Tone Analyzer
+10. Dindas
+    Cognos Embed
