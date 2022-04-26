@@ -20,31 +20,28 @@ To be the center of the largest and most comprehensive collection of the history
 1. Watson OpenScale
 
 2. Cozeon
-Watson Assistant
+   Watson Assistant
 
 3. Mellow
-Watson Assistant
+   Watson Assistant
 
 4. Discora
-Watson Discovery
+   Watson Discovery
 
 5. Laggy
-Language Translator
+   Language Translator
 
 6. Natula
-Natural Language Understanding
+   Natural Language Understanding
 
 7. Monica
-Machine Learning
-
-
+   Machine Learning
 
 8. Speeco
-Speech to Text
-
+   Speech to Text
 
 9. Texxy
-Text to Speech
+   Text to Speech
 
 10. Tony
-Tone Analyzer
+    Tone Analyzer
